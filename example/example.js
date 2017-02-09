@@ -12,6 +12,7 @@
     ext: 'png'
   }).addTo(map);
 
+  console.log(schools);
   // Mock user input
   // Filter out according to these zip codes:
   var acceptedZipcodes = [19106, 19107, 19124, 19111, 19118];
